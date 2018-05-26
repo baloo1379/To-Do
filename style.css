@@ -1,0 +1,15 @@
+.container {
+  max-width: 400px;
+}
+
+.panel-block {
+  justify-content: space-between;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.hero-body {
+  padding: 0.5rem 1.5rem;
+}
